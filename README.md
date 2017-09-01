@@ -1,2 +1,8 @@
 # hello-world
-First GitHub repository
+Hello world!
+
+Welcome to my GitHub repository.
+
+Cheers,
+Rajesh
+
